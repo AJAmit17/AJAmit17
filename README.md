@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AJAmit17
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Programming Languages
-- 💞️ I’m looking to collaborate on Application/Software/Web development
+- 💞️ I’m looking to collaborate on Application/Software development /Data science projects
+- 🏫 Currently Studying Computer science & Engineering - Data Science
 - 📫 There are some ways listed below to contact me :) 
 -    E-mail: amitjagadeesh2004@gmail.com
 -    LinkedIn: https://www.linkedin.com/in/aj-amit-33974923b/
