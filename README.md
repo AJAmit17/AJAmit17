@@ -1,12 +1,12 @@
 <h1 align="center">
-I Am Amit Acharya!<br>
+I am Amit Acharya!<br>
 </h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile;Python+developer;CSE++-+Data+Science+Engineer)](https://git.io/typing-svg)
 
 ----
  
-- 👋 Hi, I’m @AJAmit17
+- 👋 Hi, I’m Amit Acharya
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on Application/Software development /Data science projects
