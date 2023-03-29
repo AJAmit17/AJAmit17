@@ -46,10 +46,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧑🏻‍💻 My Stats :
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AJAmit17&show_icons=true&locale=en&layout=compact%22%20alt=%22bhaskar08%22&theme=blue-green" alt="AJAmit17" /></p>
+<p>&nbsp;<img align= "center" src="https://github-readme-stats.vercel.app/api?username=AJAmit17&show_icons=true&locale=en&theme=dark" alt="AJAmit17" />
 
-<p>&nbsp;<img align= "center" src="https://github-readme-stats.vercel.app/api?username=AJAmit17&show_icons=true&locale=en&theme=blue-green" alt="AJAmit17" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AJAmit17&layout=compact&theme=blue-green" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AJAmit17&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AJAmit17&layout=compact&theme=dark" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=AJAmit17&theme=dark)](https://git.io/streak-stats)
