@@ -8,8 +8,8 @@ I am Amit Acharya!<br>
  
 - 👋 Hi, I’m Amit Acharya
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Programming Languages
-- 💞️ I’m looking to collaborate on Application/Software development /Data science projects
+- 🌱 I’m currently learning Web development and Data Science 
+- 💞️ I’m looking to collaborate on Web development projects or Data science projects
 - 🏫 Currently Studying Computer science & Engineering - Data Science
 - 📫 There are some ways listed below to contact me :) 
 -    E-mail: amitjagadeesh2004@gmail.com
