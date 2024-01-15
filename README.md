@@ -11,9 +11,10 @@ I am Amit Acharya!<br>
 - 🌱 I’m currently learning Web development and Data Science 
 - 💞️ I’m looking to collaborate on Web development projects or Data science projects
 - 🏫 Currently Studying Computer science & Engineering - Data Science
-- 📫 There are some ways listed below to contact me :) 
--    E-mail: amitjagadeesh2004@gmail.com
--    LinkedIn: https://www.linkedin.com/in/aj-amit-33974923b/
+- 📫 There are some ways listed below to contact me :)
+- 🌐 Website: https://amit-acharya.vercel.app
+- 📨 E-mail: amitjagadeesh2004@gmail.com
+- 🔗LinkedIn: https://www.linkedin.com/in/amit-acharya17/
 
 <!---
 AJAmit17/AJAmit17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
