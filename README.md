@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amit%20Acharya&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Science&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amit%20Acharya&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML&descAlignY=55&descSize=18&animation=fadeIn" />
 </h1>
 
 <p align="center">
@@ -42,12 +42,12 @@ website: https://amit-acharya.vercel.app
 <table>
   <tr>
     <td valign="top" width="60px">
-      <img src="https://avatars.githubusercontent.com/u/LyzrCore" width="50" style="border-radius:8px" onerror="this.src='https://img.shields.io/badge/L-Lyzr-blueviolet?style=flat-square'" />
+      <img src="https://www.lyzr.ai/wp-content/uploads/2024/03/cropped-Lyzr_Logo_1-removebg-icon-192x192.png" width="50" style="border-radius:8px" onerror="this.src='https://img.shields.io/badge/L-Lyzr-blueviolet?style=flat-square'" />
     </td>
     <td valign="top">
-      <strong>🚀 Lyzr AI</strong> — <a href="https://github.com/NeuralgoLyzr">@NeuralgoLyzr</a><br/>
+      <strong>🚀 Lyzr AI</strong> — <a href="https://github.com/amitlyzr">@amitlyzr</a><br/>
       <em>Founder's Office Intern · Full Stack Developer</em><br/>
-      <code>Aug 2025 – Present · Remote</code><br/>
+      <code>Aug 2025 – Present</code> · Remote<br/>
       Working directly with founders on AI-powered platform development. Building scalable web apps, implementing AI/ML features, and contributing to product strategy with modern tech stacks.
     </td>
   </tr>
@@ -157,7 +157,7 @@ website: https://amit-acharya.vercel.app
 <p align="center">
   <a href="https://amit-acharya.vercel.app"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge"/></a>
   &nbsp;
-  <a href="mailto:amitjagadeesh2004@gmail.com"><img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge"/></a>
+  <a href="mailto:amit.acharya.work@gmail.com"><img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amit-acharya17/"><img src="https://img.shields.io/badge/💼 LinkedIn-Connect-blue?style=for-the-badge"/></a>
 </p>
